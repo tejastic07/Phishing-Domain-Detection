@@ -26,3 +26,7 @@ https://www.sciencedirect.com/science/article/pii/S2352340920313202
 ## Process flow of Project
 1) Python Process Flow
 ![Python process flow](https://user-images.githubusercontent.com/120026804/213915901-9694ec5c-0a17-4e08-8e75-122eb6d8e881.png)
+
+2) Deployment Process Flow
+![Deployment Process Flow](https://user-images.githubusercontent.com/120026804/213916555-65c59b7b-42e4-4af9-94d8-fe51e57da8f8.png)
+
