@@ -6,9 +6,7 @@
 Phishing stands for a fraudulent process, where an attacker tries to obtain sensitive information from the victim. Usually, these kinds of attacks are done via emails, text messages, or websites. Phishing websites, which are nowadays in a considerable rise, have the same look as legitimate sites. However, their backend is designed to collect sensitive information that is inputted by the victim. Discovering and detecting phishing websites has recently also gained the machine learning community’s attention, which has built the models and performed classifications of phishing websites. This paper presents dataset variations that consist of 58,645 websites labelled as legitimate or phishing and allows the others to train their classification models, 
 build phishing detection systems.
 
-![fake](https://user-images.githubusercontent.com/120026804/213918731-facea712-dbec-4d03-80b0-2229fef63b86.jpg)![safe](https://user-images.githubusercontent.com/120026804/213918739-ebf6f965-8990-43bd-a21d-5223d587c9ae.jpg)
-
-
+![fake](https://user-images.githubusercontent.com/120026804/213918731-facea712-dbec-4d03-80b0-2229fef63b86.jpg)
 
 ## Problem Statement
 Phishing is a type of fraud in which an attacker impersonates a reputable company or 
@@ -34,10 +32,10 @@ learning algorithms that’s best fit for the above case.
 
 
 ## Dataset
-You can dowload dataset from below site :
+You can dowload dataset using this link :
 https://data.mendeley.com/datasets/72ptz43s9v/1
 
-You can download dataset description from below site :
+You can download dataset description using this link :
 https://www.sciencedirect.com/science/article/pii/S2352340920313202
 
 ## Python Process flow 
