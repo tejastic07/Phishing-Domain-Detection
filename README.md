@@ -28,9 +28,6 @@ learning algorithms that’s best fit for the above case.
 
 ![site nomenclature](https://user-images.githubusercontent.com/120026804/213918659-59596661-4cd4-46cf-83f3-366d11915d24.jpg)
 
-
-
-
 ## Dataset
 You can dowload dataset using this link :
 https://data.mendeley.com/datasets/72ptz43s9v/1
@@ -40,6 +37,13 @@ https://www.sciencedirect.com/science/article/pii/S2352340920313202
 
 ## Python Process flow 
 ![Python process flow](https://user-images.githubusercontent.com/120026804/213915901-9694ec5c-0a17-4e08-8e75-122eb6d8e881.png)
+
+## Data Pre-Processing
+![Data Pre-processing](https://user-images.githubusercontent.com/120026804/213920555-a24e22cc-55c1-48bf-927e-dac4e5c9a46b.png)
+
+## Model Building
+I have applied 10 Machine Learning classification algorithms out of which I chose the best one. 
+![Model Building](https://user-images.githubusercontent.com/120026804/213919949-7c3677c4-e15b-4236-9744-e24823b6f8a0.png)
 
 ## Deployment Process Flow
 ![Deployment Process Flow](https://user-images.githubusercontent.com/120026804/213916555-65c59b7b-42e4-4af9-94d8-fe51e57da8f8.png)
