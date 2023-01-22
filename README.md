@@ -13,8 +13,11 @@ information via email or other communication channels. Phishing is popular among
 attackers because it is easier to persuade someone to click a malicious link that appears 
 to be authentic than it is to break through a computer's protection measures
 
-## Objective
+## Objective & Approach
 The main objective of the project to predict wheather the domains are real or malicious.
+The classical machine learning tasks like Data Exploration, Data Cleaning, 
+Feature Engineering, Model Building and Model Testing. Try out different machine 
+learning algorithms that’s best fit for the above case.
 
 ## Dataset
 You can dowload dataset from below site :
@@ -23,10 +26,15 @@ https://data.mendeley.com/datasets/72ptz43s9v/1
 You can download dataset description from below site :
 https://www.sciencedirect.com/science/article/pii/S2352340920313202
 
-## Process flow of Project
-1) Python Process Flow
+## Python Process flow 
 ![Python process flow](https://user-images.githubusercontent.com/120026804/213915901-9694ec5c-0a17-4e08-8e75-122eb6d8e881.png)
 
-2) Deployment Process Flow
+## Deployment Process Flow
 ![Deployment Process Flow](https://user-images.githubusercontent.com/120026804/213916555-65c59b7b-42e4-4af9-94d8-fe51e57da8f8.png)
+
+## Tools Used
+![Tools used](https://user-images.githubusercontent.com/120026804/213918181-efdcec1d-1a20-4d6a-8fa8-3bf4318ec7b5.png)
+
+
+
 
