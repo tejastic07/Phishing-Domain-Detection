@@ -61,6 +61,10 @@ I have applied 10 Machine Learning classification algorithms out of which I chos
 ## Tools Used
 ![Tools used](https://user-images.githubusercontent.com/120026804/213918240-b9d6e175-38d3-4b55-9d85-1bb75a4025b5.png)
 
+## Conclusion
+This Phishing Domain Detection is used in-order to avoid phishing. According to the different parameters by the URL, we as an users should have an idea that how our personal information can leaked through phishing. This system helps to check whether the site is real or malicious, so that we can avoid and get alert either to provide information on that site or not.
+
+
 
 
 
