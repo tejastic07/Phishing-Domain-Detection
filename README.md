@@ -41,6 +41,10 @@ https://www.sciencedirect.com/science/article/pii/S2352340920313202
 ## Data Pre-Processing
 ![Data Pre-processing](https://user-images.githubusercontent.com/120026804/213920555-a24e22cc-55c1-48bf-927e-dac4e5c9a46b.png)
 
+## Data Visualization
+![meta-chart](https://user-images.githubusercontent.com/120026804/213921275-ff42f257-f8f3-4a5b-8acc-94f1d333de9f.png)
+
+
 ## Model Building
 I have applied 10 Machine Learning classification algorithms out of which I chose the best one. 
 ![Model Building](https://user-images.githubusercontent.com/120026804/213919949-7c3677c4-e15b-4236-9744-e24823b6f8a0.png)
