@@ -42,8 +42,14 @@ https://www.sciencedirect.com/science/article/pii/S2352340920313202
 ![Data Pre-processing](https://user-images.githubusercontent.com/120026804/213920555-a24e22cc-55c1-48bf-927e-dac4e5c9a46b.png)
 
 ## Data Visualization
+1) Count of Dependent Variable class
 ![meta-chart](https://user-images.githubusercontent.com/120026804/213921275-ff42f257-f8f3-4a5b-8acc-94f1d333de9f.png)
 
+2) Mutual Gain Output
+![Mutual Gain](https://user-images.githubusercontent.com/120026804/213922335-31577cec-6de4-4272-a87c-6f4de54a5798.png)
+
+3) Most Important Feature for prediction
+![Important Feature](https://user-images.githubusercontent.com/120026804/213922360-3121bad8-37c4-461e-8e81-c43caa7ff4b7.png)
 
 ## Model Building
 I have applied 10 Machine Learning classification algorithms out of which I chose the best one. 
