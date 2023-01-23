@@ -56,10 +56,12 @@ I have applied 10 Machine Learning classification algorithms out of which I chos
 ![Model Building](https://user-images.githubusercontent.com/120026804/213919949-7c3677c4-e15b-4236-9744-e24823b6f8a0.png)
 
 ## Deployment Process Flow
-![Deployment Process Flow](https://user-images.githubusercontent.com/120026804/213916555-65c59b7b-42e4-4af9-94d8-fe51e57da8f8.png)
+![Deployment Process](https://user-images.githubusercontent.com/120026804/214139729-49879c90-4874-4a1c-8309-a1b61dada6ae.png)
+
 
 ## Tools Used
-![Tools used](https://user-images.githubusercontent.com/120026804/213918240-b9d6e175-38d3-4b55-9d85-1bb75a4025b5.png)
+![Tools Used](https://user-images.githubusercontent.com/120026804/214139779-3572015b-c51c-47e3-a59f-c630060ba7b4.png)
+
 
 ## Conclusion
 This Phishing Domain Detection is used in-order to avoid phishing. According to the different parameters by the URL, we as an users should have an idea that how our personal information can leaked through phishing. This system helps to check whether the site is real or malicious, so that we can avoid and get alert either to provide information on that site or not.
