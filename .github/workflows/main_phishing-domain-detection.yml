@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Phishing-Domain-Detection'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A9ABDDA4F8754EA0B487CF308210E012 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B455DB3FD6934FDF85DE8E281C688B55 }}
